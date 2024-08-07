@@ -34,7 +34,7 @@ border-bottom: 1px solid #aaaaaa;
 }
 
 nav{
-    position: fixed;
+    position: absolute;
     margin: 0 auto;
     width: 100%;
     top: 0;
